@@ -8,3 +8,4 @@
 
 
 [详细文档](https://github.com/weexext/weexextwiki/wiki)
+[demo](https://github.com/weexext/weex-demo)
